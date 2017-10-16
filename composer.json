@@ -1,0 +1,10 @@
+{
+  "config": {
+    "vendor-dir": "dependencies"
+  },
+  "require": {
+    "symfony/yaml": "2.6.4",
+    "knplabs/github-api": "^2.6",
+    "php-http/guzzle6-adapter": "^1.1"
+  }
+}
